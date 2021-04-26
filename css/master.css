@@ -61,7 +61,7 @@ body {
     background-color: cadetblue;
 }
 .item .img-top  {
-    max-width: 250px;
+    width: 250px;
     padding: 5px;
     display: none;
     position: absolute;
